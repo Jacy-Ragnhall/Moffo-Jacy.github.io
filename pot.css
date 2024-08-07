@@ -158,7 +158,7 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: #8d94b43b;
     color: #1a1a1a;
     font-size: 0.9rem;
@@ -346,6 +346,10 @@ ul{
 }
 .contact a i{
     margin-left: 10px;
+}
+.mssgbx{
+   width: 100px;
+   height: 100px; 
 }
 /*==footer========================*/
 footer{
